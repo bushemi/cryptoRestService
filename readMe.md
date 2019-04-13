@@ -14,3 +14,5 @@
  Encrypted String - NjWABimPl5mgCEOsoIb0qSCigl4Jg0oNlBcaUczq1ww=
  
  В результате расшифровки получишь текст на английском.
+ 
+The main class - com.bushemi.Starter
